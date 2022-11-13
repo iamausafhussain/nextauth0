@@ -1,0 +1,6 @@
+-> this project is created by Ausaf Hussain 
+-> full implementation of auth0 with next js
+-> to run this project
+   -> run, npm i (in your command prompt)
+   -> then, npm run dev 
+   -> go to, http://localhost:3000
